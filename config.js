@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao Bích cứ đi nhầm đường
     Lạc vào tim t lẻ loi`,
-    btnIntro: 'hihi',
+    btnIntro: 'haha',
     title: 'Bích có thích mình hông <3',
     desc: 'hãy chọn đi ',
     btnYes: 'mình thích b mất rồi <33',

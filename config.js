@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'mình thích b mất rồi <33',
     btnNo: 'không (đừng chọn cái này )))):)',
     question:'ahihi mình biết câu trả lời rồi nha ',
-    btnReply: 'Bích thasyasy mình đỉnh hông<3',
+    btnReply: 'Bích thấy mình đỉnh hông<3',
     reply: 'quá đỉnh luôn',
     mess: 'Mình biết mà 🥰. Bích cứ khen thế mình ngại lắm ý 😘😘',
     messDesc: 'Làm người yêu mình nha',

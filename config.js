@@ -11,7 +11,7 @@ const CONFIG = {
     question:'ahihi mình biết câu trả lời rồi nha ',
     btnReply: 'B định nói gì nào',
     reply: 'quá đỉnh luôn',
-    mess: 'Mình biết mà 🥰. Bích cứ khen thế mình ngại lắm ý 😘😘',
+    mess: 'Mình biết mà 🥰. B cứ khen thế mình ngại lắm ý 😘😘',
     messDesc: 'hí hí yêu quá đi mà',
     btnAccept: 'hihi <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
